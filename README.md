@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-<!--
-**SaiVamsiPuttu/SaiVamsiPuttu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building Advanced Analytical Algorithms
 - 🌱 I’m currently learning Cloud Computing & GPU Programming
 - 👯 I’m looking to collaborate on Data Science and ML related projects
 - 🤔 I’m looking for help with ...
+<!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
