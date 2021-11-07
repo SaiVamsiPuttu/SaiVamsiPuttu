@@ -26,7 +26,7 @@
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/SaiVamsiPuttu/COVID19-INDIA-Exploratory-Analysis/blob/main/CVOID19_Exploratory_Analysis_on_INDIA.ipynb" target="_blank"> <img alt="artistify" src="https://user-images.githubusercontent.com/67168573/140637922-91c93792-10c6-458a-a230-bf5cebd951a9.jpg" height="42px"> </a>
-<a href="https://github.com/SaiVamsiPuttu/machine_translation/blob/main/machine_translation.ipynb" target="_blank"> <img alt="artistify" src="https://user-images.githubusercontent.com/67168573/140637815-60dc2620-8d48-461c-83b0-20f4ec08ed01.jpg"> </a>
-<a href="https://github.com/SaiVamsiPuttu/MLAlgorithmsFromScratch/blob/main/ML_Algorithms_From_Scratch.ipynb" target="_blank"> <img alt="readmeicons" src="https://user-images.githubusercontent.com/67168573/140638088-f8ec325a-6762-4dd6-b2f1-537932988223.png" height="42px"> </a>
-<a href="https://github.com/SaiVamsiPuttu/dockerzing_django_project" target="_blank"> <img alt="dockerizingDjangoProject" src="https://user-images.githubusercontent.com/67168573/140638105-88df7485-7205-4f68-869b-7119c5570917.png" height="42px"> </a>
+<a href="https://github.com/SaiVamsiPuttu/COVID19-INDIA-Exploratory-Analysis/blob/main/CVOID19_Exploratory_Analysis_on_INDIA.ipynb" target="_blank"> <img alt="artistify" src="https://user-images.githubusercontent.com/67168573/140637922-91c93792-10c6-458a-a230-bf5cebd951a9.jpg" height="90px"> </a>
+<a href="https://github.com/SaiVamsiPuttu/machine_translation/blob/main/machine_translation.ipynb" target="_blank"> <img alt="artistify" src="https://user-images.githubusercontent.com/67168573/140637815-60dc2620-8d48-461c-83b0-20f4ec08ed01.jpg" height="90px"> </a>
+<a href="https://github.com/SaiVamsiPuttu/MLAlgorithmsFromScratch/blob/main/ML_Algorithms_From_Scratch.ipynb" target="_blank"> <img alt="readmeicons" src="https://user-images.githubusercontent.com/67168573/140638088-f8ec325a-6762-4dd6-b2f1-537932988223.png" height="90px"> </a>
+<a href="https://github.com/SaiVamsiPuttu/dockerzing_django_project" target="_blank"> <img alt="dockerizingDjangoProject" src="https://user-images.githubusercontent.com/67168573/140638105-88df7485-7205-4f68-869b-7119c5570917.png" height="90px"> </a>
