@@ -26,7 +26,7 @@
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/SaiVamsiPuttu/COVID19-INDIA-Exploratory-Analysis/blob/main/CVOID19_Exploratory_Analysis_on_INDIA.ipynb" target="_blank"> <img alt="artistify" src="https://user-images.githubusercontent.com/67168573/140637922-91c93792-10c6-458a-a230-bf5cebd951a9.jpg" align="left"> </a>
+<a href="https://github.com/SaiVamsiPuttu/COVID19-INDIA-Exploratory-Analysis/blob/main/CVOID19_Exploratory_Analysis_on_INDIA.ipynb" target="_blank"> <img alt="artistify" src="https://user-images.githubusercontent.com/67168573/140637922-91c93792-10c6-458a-a230-bf5cebd951a9.jpg" height="42px" align="left"> </a>
 <a href="https://github.com/SaiVamsiPuttu/machine_translation/blob/main/machine_translation.ipynb" target="_blank"> <img alt="artistify" src="https://user-images.githubusercontent.com/67168573/140637815-60dc2620-8d48-461c-83b0-20f4ec08ed01.jpg" align="left"> </a>
-<a href="https://github.com/SaiVamsiPuttu/MLAlgorithmsFromScratch/blob/main/ML_Algorithms_From_Scratch.ipynb" target="_blank"> <img alt="readmeicons" src="" height="68" align="left"> </a>
-<a href="https://github.com/SaiVamsiPuttu/dockerzing_django_project" target="_blank"> <img alt="passwordkeeper" src="https://userimages.githubusercontent.com/67168573/140637983-abd03d63-590b-4ad0-84c4-9e5b8d72339b.png" height="68" align="left"> </a>
+<a href="https://github.com/SaiVamsiPuttu/MLAlgorithmsFromScratch/blob/main/ML_Algorithms_From_Scratch.ipynb" target="_blank"> <img alt="readmeicons" src="" height="68" height="42px" align="left"> </a>
+<a href="https://github.com/SaiVamsiPuttu/dockerzing_django_project" target="_blank"> <img alt="passwordkeeper" src="https://userimages.githubusercontent.com/67168573/140637983-abd03d63-590b-4ad0-84c4-9e5b8d72339b.png" height="42px" align="left"> </a>
