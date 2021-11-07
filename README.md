@@ -26,6 +26,6 @@
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/SaiVamsiPuttu/COVID19-INDIA-Exploratory-Analysis/blob/main/CVOID19_Exploratory_Analysis_on_INDIA.ipynb" target="_blank"> <img alt="artistify" src="" align="left"> </a>
+<a href="https://github.com/SaiVamsiPuttu/COVID19-INDIA-Exploratory-Analysis/blob/main/CVOID19_Exploratory_Analysis_on_INDIA.ipynb" target="_blank"> <img alt="artistify" src="![machine-translation_logo](https://user-images.githubusercontent.com/67168573/140637815-60dc2620-8d48-461c-83b0-20f4ec08ed01.jpg)" align="left"> </a>
 <a href="https://github.com/SaiVamsiPuttu/MLAlgorithmsFromScratch/blob/main/ML_Algorithms_From_Scratch.ipynb" target="_blank"> <img alt="readmeicons" src="" height="68" align="left"> </a>
 <a href="https://github.com/SaiVamsiPuttu/dockerzing_django_project" target="_blank"> <img alt="passwordkeeper" src="" height="68" align="left"> </a>
