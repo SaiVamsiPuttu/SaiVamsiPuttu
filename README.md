@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="https://github.com/SaiVamsiPuttu/SaiVamsiPuttu/blob/main/main.css">
   </head>
 <body>
   <h1> Hey 👋, I'm Sai Vamsi Puttu!</h1>
